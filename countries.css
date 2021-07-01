@@ -1,0 +1,13 @@
+img{
+    width:200px;
+    height:200px;
+    
+}
+
+.myflag{
+    width:200px;
+    height:200px;
+    background-color: yellow;
+    margin:5px;
+    border-radius: 50%;
+}
