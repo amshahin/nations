@@ -1,4 +1,4 @@
-fetch('http://restcountries.eu/rest/v2/all')
+fetch('https://restcountries.eu/rest/v2/all')
   .then(response => response.json())
   .then(json => {
     /* use backtick = ` to spread string on multiple lines in js*/  
